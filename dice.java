@@ -19,7 +19,7 @@ public class dice{
 	System.out.println("Total value: " + (die1+die2));
 
 	if((die1+die2)>7){
-	    System.out/println("You won");
+	    System.out.println("You won");
 	}else{
 	    System.out.println("You lost");
 	}
